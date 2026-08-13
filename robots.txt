@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-d6noq5.yoursingles.online/sitemap.xml
